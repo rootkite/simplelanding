@@ -1,0 +1,23 @@
+body{
+  margin: auto;
+  text-align: center;
+  background-color: #00264d;
+  color: white;
+  border: 20px solid #00cc99;
+  border-top: 0px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 5%;
+
+}
+
+p strong{
+  font-size: 28px;
+}
+
+#signup{
+  background-color: orange;
+  border-radius: 30px;
+  font-size: 32px;
+  padding: 13px;
+}
